@@ -1,4 +1,4 @@
-##前端常见的英语单词和音标（Front-end English words and phonetic symbols）  
+## 前端常见的英语单词和音标（Front-end English words and phonetic symbols）  
 单词 + 音标 + 翻译（或单词解释，比如功能、作用等）  
 如有错误，欢迎指正:heart:  
 
