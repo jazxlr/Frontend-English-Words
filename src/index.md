@@ -103,6 +103,30 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**mutation [mjuːˈteɪʃn]**  
 改变；突变；
 
+>**remote [rɪˈməʊt]**  
+遥远的；偏远的；远程；git remote show origin 查看远程分支；
+
+>**prune [pruːn]**  
+修剪；裁剪；git remote prune origin 更新还能查看已删除的远程分支；
+
+>**primary [ˈpraɪmeri]**  
+主要的；最重要的；基本的；
+
+>**component [kəmˈpoʊnənt]**  
+组件；成分；部件
+
+>**filter [ˈfɪltər]**  
+滤器；过滤器；滤光器；
+
+>**interceptor [ˌɪntərˈseptər]**  
+拦截器；如请求拦截 axios..interceptors.request
+
+>**param [ˌpærəˈm]**  
+参数；
+
+>**static [ˈstætɪk]**  
+静止的；静态的；停滞的；静力的
+
 
 
 
