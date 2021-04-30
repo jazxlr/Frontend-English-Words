@@ -127,6 +127,33 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**static [ˈstætɪk]**  
 静止的；静态的；停滞的；静力的
 
+>**provider [prəˈvaɪdər]**  
+供应者;提供者;供养人
+
+>**inject [ɪnˈdʒekt]**  
+注入;注射
+
+>**property [ˈprɑːpərti]**  
+所有物;财产;财物;属性；
+
+>**performance [pərˈfɔːrməns]**  
+性能;表演;演出;演技;表现;业绩;工作情况
+
+>**directive [dəˈrektɪv]**  
+指示;命令；指令
+
+>**reflow [ˈriːfloʊ]**  
+回流；文档重整；页面重排；
+
+>**repaint [ri'peɪnt]**  
+重绘；再次（重新）油漆，再次（重新）画;（拓展：回流必将引起重绘，重绘不一定会引起回流）
+
+>**chrome [kroʊm]**  
+谷歌浏览器
+
+>**recalculate ['ri:'kælkjuleit]**  
+重新计算
+
 
 
 
