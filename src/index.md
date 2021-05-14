@@ -154,6 +154,15 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**recalculate ['ri:'kælkjuleit]**  
 重新计算
 
+>**scope [skoʊp]**  
+作用域；范围；能力
+
+>**hypothesis [haɪˈpɑːθəsɪs]**  
+假说，假设;(凭空的)猜想，猜测
+
+>**scavenge [ˈskævɪndʒ]**  
+清除污物，打扫; （在废物中）寻觅;
+
 
 
 
