@@ -163,6 +163,25 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**scavenge [ˈskævɪndʒ]**  
 清除污物，打扫; （在废物中）寻觅;
 
+>**compiler [kəmˈpaɪlər]**  
+编译器;编译程序
+
+>**Interpreter [ɪnˈtɜːrprətər]**  
+解释程序,解释器
+
+>**boolean [ˈbuːliən]**  
+布尔逻辑体系的（分别以1和0代指是和非）
+
+>**interface [ˈɪntərfeɪs]**  
+接口;接口程序;
+
+>**implements [ˈɪmplɪments]**  
+v.使生效;贯彻;执行;实施
+n.工具;器具;(常指)简单的户外用具
+
+>**extends [ɪkˈstendz]**  
+v.使伸长;扩大;扩展;延长;使延期;
+
 
 
 
