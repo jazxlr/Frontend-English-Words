@@ -130,6 +130,9 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**provider [prəˈvaɪdər]**  
 供应者;提供者;供养人
 
+>**sponsor [ˈspɑːnsər]**  
+赞助者，赞助商;
+
 >**inject [ɪnˈdʒekt]**  
 注入;注射
 
@@ -182,6 +185,24 @@ n.工具;器具;(常指)简单的户外用具
 >**extends [ɪkˈstendz]**  
 v.使伸长;扩大;扩展;延长;使延期;
 
+>**contacts [ˈkɑːntækts]**  
+联络;联系人
+
+>**discover [dɪˈskʌvər]**  
+发现，找到，发觉;
+
+>**favorites [ˈfeɪvərɪts]**  
+最爱、收藏夹
+
+>**moments [ˈfeɪvərɪts]**  
+片刻;瞬间;朋友圈（微信）
+
+>**fold [foʊld]**  
+v.折叠;对折(纸、织物等);叠平;
+n.褶痕;褶缝;褶线;
+
+>**expand [ɪkˈspænd]**  
+v.扩大;增加;扩展(业务);
 
 
 
