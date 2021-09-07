@@ -1,6 +1,12 @@
-## 前端常见的英语单词和音标（Front-end English words and phonetic symbols）  
+## 前端常见的英语单词和音标(Frontend English words and phonetic symbols [fəˈnetɪk ˈsɪmbəlz])
 单词 + 音标 + 翻译（或单词解释，比如功能、作用等）  
 如有错误，欢迎指正:heart:  
+
+>**phonetic [fəˈnetɪk]**  
+表示语音的; 音标的;
+
+>**symbols [ˈsɪmbəlz]**  
+象征;符号;代号;记号; 
 
 >**debounce [dɪ'baʊns]**  
 去抖动；防反跳；防抖动；弹跳；抖动消除
@@ -110,6 +116,9 @@ GraphQL 是一种针对 Graph（图状数据）进行查询特别有优势的 Qu
 >**prune [pruːn]**  
 修剪；裁剪；git remote prune origin 更新还能查看已删除的远程分支；
 
+>**origin [ˈɔːrɪdʒɪn]**  
+起源;源头;起因;身世;出身
+
 >**primary [ˈpraɪmeri]**  
 主要的；最重要的；基本的；
 
@@ -192,7 +201,7 @@ v.使伸长；扩大；扩展；延长；使延期；
 >**discover [dɪˈskʌvər]**  
 发现，找到，发觉；
 
->**favorites [ˈfeɪvərɪts]**  
+>**favorite [ˈfeɪvərɪt]**  
 最爱、收藏夹
 
 >**moments [ˈfeɪvərɪts]**  
@@ -214,11 +223,42 @@ v.扩大；增加；扩展(业务)；
 >**appender [əˈpender]**  
 附录
 
+>**independent [ˌɪndɪˈpendənt]**  
+独立的;自主的;自治的;
 
+>**evolution [ˌiːvəˈluːʃn]**  
+n.进化;演变;发展;渐进
 
+>**occupy [ˈɑːkjupaɪ]**  
+居住;侵占;占领;占据
 
+>**fascination [ˌfæsɪˈneɪʃn]**  
+魅力;入迷;着迷;魔力
 
+>**undertake [ˌʌndərˈteɪk]**  
+承担;从事;负责;承诺;
 
+>**diamond [ˈdaɪəmənd]**  
+钻石；菱形；方形牌
+
+>**measure [ˈmeʒər]**  
+vt.测量;度量;
+n.措施;方法;
+
+>**progressive [prəˈɡresɪv]**  
+渐进的;进步的;先进的;开明的;稳步的;逐步的;
+
+>**framework [prəˈɡresɪv]**  
+框架；构架；结构
+
+>**special [ˈspeʃl]**  
+特殊的;特别的;不寻常的;不一般的;重要的;
+
+>**monolithic [ˌmɑːnəˈlɪθɪk]**  
+庞大的；整体的；大型的
+
+>**designed [dɪˈzaɪnd]**  
+设计;制图;构思;计划; design的过去分词和过去式
 
 
 
